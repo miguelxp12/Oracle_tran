@@ -1,0 +1,3 @@
+python-kucoin
+pandas
+numpy
